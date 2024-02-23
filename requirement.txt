@@ -1,0 +1,14 @@
+python 3.7
+pytorch with cuda
+openai==0.28.1
+plotly
+underthesea
+PyPDF2
+pandas
+numpy
+tiktoken==0.5.1
+langchain
+gradio
+faiss-cpu
+frontend
+pymupdf

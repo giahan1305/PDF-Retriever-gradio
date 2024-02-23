@@ -1,0 +1,3 @@
+# Ignore files with names containing "test" or "key"
+*test*
+*key*
